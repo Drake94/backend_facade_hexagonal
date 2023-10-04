@@ -1,0 +1,1 @@
+INSERT INTO client(rut, name, nationality, birthDate) VALUES (:rut, :name, :nationality, :birthDate)

@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS count FROM account WHERE account_number = :accountNumber;

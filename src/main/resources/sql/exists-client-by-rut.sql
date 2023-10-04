@@ -1,0 +1,1 @@
+SELECT COUNT(*) AS count FROM client WHERE rut = :rut;
